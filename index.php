@@ -3,6 +3,6 @@
 </head>
 
 <body>
-<p>Hola</p>
+<p>Hola mundo.</p>
 </body>
 </html>
